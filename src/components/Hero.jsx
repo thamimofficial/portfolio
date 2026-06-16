@@ -80,7 +80,7 @@ export default function Hero() {
               View Projects
             </button>
             <a
-              href="https://drive.google.com/file/d/18xORMe9s9cyH1-Vr6b9IO-9vFh3JnFk-/view?usp=drive_link"
+              href="https://drive.google.com/file/d/142W6z38YTPXP1EOsZ9drtRsRZHUoIHv_/view?usp=sharing"
               className="border-2 border-[#2563EB] text-[#2563EB] font-semibold px-6 py-3 rounded-lg hover:bg-blue-50 transition-colors"
             >
               Download CV
