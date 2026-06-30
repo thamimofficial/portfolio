@@ -55,6 +55,27 @@ const projects = [
     viewProject: 'https://drive.google.com/file/d/13uB0yONgmMCFC2MnxsoXvSCQOYH9Vhft/view?usp=sharing',
     tags: ['React Native', 'AsyncStorage', 'Redux', 'Custom UI'],
   },
+{
+  name: 'Blood Share',
+  subtitle: 'Blood Donation & Emergency Support App · NGO Project',
+  description: 'A mobile application designed to connect blood donors, patients, hospitals, blood banks, and ambulance services during emergencies. It helps users quickly find and request blood, access emergency contacts, and save lives through a unified platform.',
+  bannerSrc: 'https://ik.imagekit.io/thamimgoodat/ChatGPT%20Image%20Jun%2030,%202026,%2012_31_11%20PM.png',
+  bannerLabel: 'BLOOD_SHARE_BANNER_URL',
+  iconSrc: 'https://ik.imagekit.io/thamimgoodat/ChatGPT%20Image%20Jun%2030,%202026,%2012_31_11%20PM.png',
+  iconLabel: 'BLOOD_SHARE_ICON_URL',
+  appStore: null,
+  playStore: 'https://lnkd.in/d4ikiP2U',
+  viewProject: 'https://lnkd.in/d4ikiP2U',
+  tags: [
+    'React Native',
+    'Redux',
+    'AsyncStorage',
+    'Firebase',
+    'Custom UI',
+    'NGO Project',
+    'Emergency App'
+  ]
+}
 ];
 
 function isPlaceholderUrl(url) {
